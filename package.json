@@ -1,0 +1,22 @@
+{
+  "name": "target-challenge",
+  "version": "1.0.0",
+  "description": "This repository contains solutions for the Target Sistemas technical challenge, including coding tasks related to Fibonacci sequence, revenue analysis, and string manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderson-rodrigues-dev/target-challenge.git"
+  },
+  "author": "Anderson Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderson-rodrigues-dev/target-challenge/issues"
+  },
+  "homepage": "https://github.com/anderson-rodrigues-dev/target-challenge#readme",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
