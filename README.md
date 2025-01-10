@@ -3,7 +3,7 @@
 Este repositório contém as soluções para a prova técnica solicitada. As questões foram resolvidas utilizando Node.js. Para cada questão, foi criada uma pasta contendo o código fonte correspondente.
 
 ## Estrutura do Repositório
-
+```
 /
 |-- 1_Soma/
 |   |-- soma.js
@@ -27,7 +27,7 @@ Este repositório contém as soluções para a prova técnica solicitada. As que
 |-- package.json
 |-- LICENSE
 |-- README.md
-
+```
 ## Questões
 
 ### 1. Soma de Números
